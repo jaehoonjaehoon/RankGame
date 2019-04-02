@@ -26,3 +26,28 @@ C:\Users\admin\Documents\Visual Studio 2015\Projects\RankGame\RankGame\bin\Debug
 C:\Users\admin\Desktop\RankGame-25f10e91d36707729ab75a05a731c05960f18007\RankGame\bin\Debug\RankGame.exe.config
 C:\Users\admin\Desktop\RankGame-25f10e91d36707729ab75a05a731c05960f18007\RankGame\obj\Debug\RankGame.exe
 C:\Users\admin\Desktop\RankGame-25f10e91d36707729ab75a05a731c05960f18007\RankGame\obj\Debug\RankGame.pdb
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\RankGame.exe.config
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame.exe
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame.pdb
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\RankGame.exe
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\RankGame.pdb
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Editors.XamSlider.v10.3.dll
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Menus.XamMenu.v10.3.dll
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\InfragisticsWPF4.v10.3.dll
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\Start_Scene.dll
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\Start_Scene.pdb
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Editors.XamSlider.v10.3.xml
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Menus.XamMenu.v10.3.xml
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\InfragisticsWPF4.v10.3.xml
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\de\InfragisticsWPF4.Controls.Menus.XamMenu.v10.3.resources.dll
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\bin\Debug\de\InfragisticsWPF4.v10.3.resources.dll
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame.csprojResolveAssemblyReference.cache
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\MainWindow.g.cs
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\App.g.cs
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame_MarkupCompile.cache
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame_MarkupCompile.lref
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\MainWindow.baml
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame.g.resources
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame.Properties.Resources.resources
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame.csproj.GenerateResource.Cache
+D:\99_사원 정재훈\개인프로그램\RankGame\RankGame\obj\Debug\RankGame.exe.licenses
