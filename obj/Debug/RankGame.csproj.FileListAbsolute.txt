@@ -1,0 +1,28 @@
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\RankGame.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\RankGame.exe
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\RankGame.pdb
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Editors.XamSlider.v10.3.dll
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\InfragisticsWPF4.v10.3.dll
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\Start_Scene.dll
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\Start_Scene.pdb
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Editors.XamSlider.v10.3.xml
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\InfragisticsWPF4.v10.3.xml
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\bin\Debug\de\InfragisticsWPF4.v10.3.resources.dll
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\MainWindow.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\App.g.cs
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame_MarkupCompile.cache
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame_MarkupCompile.lref
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\MainWindow.baml
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame.g.resources
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame.exe.licenses
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame.exe
+c:\users\admin\documents\visual studio 2015\Projects\RankGame\RankGame\obj\Debug\RankGame.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Menus.XamMenu.v10.3.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\RankGame\RankGame\bin\Debug\InfragisticsWPF4.Controls.Menus.XamMenu.v10.3.xml
+C:\Users\admin\Documents\Visual Studio 2015\Projects\RankGame\RankGame\bin\Debug\de\InfragisticsWPF4.Controls.Menus.XamMenu.v10.3.resources.dll
+C:\Users\admin\Desktop\RankGame-25f10e91d36707729ab75a05a731c05960f18007\RankGame\bin\Debug\RankGame.exe.config
+C:\Users\admin\Desktop\RankGame-25f10e91d36707729ab75a05a731c05960f18007\RankGame\obj\Debug\RankGame.exe
+C:\Users\admin\Desktop\RankGame-25f10e91d36707729ab75a05a731c05960f18007\RankGame\obj\Debug\RankGame.pdb
